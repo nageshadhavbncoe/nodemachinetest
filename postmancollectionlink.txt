@@ -1,0 +1,17 @@
+https://api.postman.com/collections/17001158-6c501dc3-7187-4342-94dd-0899dcf49c5c?access_key=PMAT-01GV5V97ADWP2G3KNYQSWWKM80
+
+
+
+
+
+how to import 
+
+
+step 1 .  open postman 
+
+step 2 .  click on import 
+
+step 3 . click on link option and paste this above url over there and then import it test it 
+
+thank you 
+
